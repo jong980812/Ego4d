@@ -12,4 +12,12 @@ notebooks/moments_cvpr/moments.ckpt
 notebooks/moments_cvpr/r2plus1d_18-91a641e6.pth
 notebooks/moments_cvpr/resnet18-f37072fd.pth
 .DS_Store
+*.mp4
 
+
+
+#--------my------------
+*.err
+*.out
+annotations/
+epic_time.ipynb
